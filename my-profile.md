@@ -4,7 +4,7 @@
 
 - 專長一：我會投三分球，但是基本都不會進
 - 專長二：我會投罰球，50% 會進
-- **專長三：我會上籃，基本都會進**
+- 專長三：我會上籃，基本都會進
 
 *沒有那個屁眼就不要吃那個瀉藥*
 
@@ -12,7 +12,7 @@
 
 ![頭像](https://img.magnific.com/free-photo/indian-man-city-male-traditional-turban-hinduist-summer-city_1157-41026.jpg?semt=ais_hybrid&w=740&q=80)
 
-> 打球跟寫程式一樣，練十次不一定會進，但不練一定不會進。
+> 沒有那個屁眼就不要吃那個瀉藥。
 
 ## 教育背景
 

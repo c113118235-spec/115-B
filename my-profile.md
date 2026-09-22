@@ -10,7 +10,7 @@
 
 我最喜歡的網站：[GitHub](https://github.com)
 
-![頭像](<img width="602" height="471" alt="image" src="https://github.com/user-attachments/assets/b1d313b7-85ee-4013-84a9-14a9e07b118e" />
+![頭像](<img width="60" height="40" alt="image" src="https://github.com/user-attachments/assets/b1d313b7-85ee-4013-84a9-14a9e07b118e" />
 )
 
 > 打球跟寫程式一樣，練十次不一定會進，但不練一定不會進。
